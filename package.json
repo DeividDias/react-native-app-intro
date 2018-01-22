@@ -20,8 +20,8 @@
     "react-component",
     "react-native"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "Deivid",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/DeividDias/react-native-intro/issues"
   },
